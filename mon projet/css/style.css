@@ -1,0 +1,53 @@
+.diaby{
+    border: 5px solid black;
+    background-color: blue;
+    padding: 40px;
+    border-width: 7px;
+    border-radius: 3px;
+}
+.h{
+    border-style: solid;
+    border-color: yellow;
+    border-width: 8px;
+    background-color: aqua;
+    text-decoration: overline;
+    color: white;
+    padding-top: 20px;
+    /* margin-top: 100px;
+    margin-bottom: 100px; */
+    /* box-shadow: 10px 6px 2px red; */
+}
+.n{
+    background-color: greenyellow;
+    border: solid;
+    border-radius: 6px;
+    padding: 12px;
+    /* margin: 4px; */
+    text-transform: capitalize;
+    border-width: 4px;
+    padding-left: 30px;
+    /* box-shadow: 8px 8px 3px inset blueviolet; */
+    
+}
+.h1{
+    padding-left: 100px;
+}
+p{
+    /* display: inline;
+    border: 5px solid purple; */
+}
+span{
+    /* border: 1px solid; */
+    /* display: block; */
+}
+p{
+    border: 2px solid;
+}
+.p1{
+    display: none
+    width: 60%;
+}
+.p2{  
+    display: inline-block;
+    width: 35%;
+}
